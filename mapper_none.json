@@ -1,0 +1,13 @@
+{
+  "include": "none",
+  "mappings": [
+    {
+      "source": "firstname",
+      "target": "first"
+    },
+    {
+      "source": "lastname",
+      "target": "last"
+    }
+  ]
+}

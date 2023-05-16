@@ -1,0 +1,27 @@
+{
+  "firstname": "John",
+  "lastname": "Doe",
+  "age": 23,
+  "sex": "male",
+  "activities": {
+    "likes": [
+      "hiking",
+      "programming",
+      "tutoring"
+    ],
+    "dislikes": [
+      "swimming",
+      "public speaking"
+    ]
+  },
+  "foods": {
+    "likes": [
+      "pizza",
+      "chicken lo mein"
+    ],
+    "dislikes": [
+      "broccoli",
+      "eggplant"
+    ]
+  }
+}
